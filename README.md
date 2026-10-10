@@ -1,5 +1,8 @@
 # Protocole DNS : Guide Avancé Complet
 
+<img width="1248" height="832" alt="OIG1 4k" src="https://github.com/user-attachments/assets/85d6c782-bb76-4364-a13a-e6a943fcb848" />
+
+
 ---
 
 ## Table des matières
